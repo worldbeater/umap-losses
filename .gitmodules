@@ -1,0 +1,3 @@
+[submodule "src/umap"]
+	path = src/umap
+	url = git@github.com:worldbeater/umap.git
